@@ -145,3 +145,7 @@ During this internship, I improved my skills in:
 If you found these projects helpful or interesting, consider **starring this repository**.
 
 Thank you for visiting! 🚀
+
+Done by: Pramoda Palanati
+
+Email: palanatipramoda678@gmail.com
